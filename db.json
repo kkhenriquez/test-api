@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Utility Belt"
+    },
+    {
+      "id": 2,
+      "title": "Boomerang"
+    }
+  ]
+}
